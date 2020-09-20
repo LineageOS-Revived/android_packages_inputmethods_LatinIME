@@ -79,6 +79,7 @@
     <string name="auto_correction_threshold_mode_off">Dheth</string>
     <string name="auto_correction_threshold_mode_modest">Sèimh</string>
     <string name="auto_correction_threshold_mode_aggressive">Ionnsaigheach</string>
+<<<<<<< HEAD
     <string name="auto_correction_threshold_mode_very_aggressive">Glè ionnsaigheach</string>
     <string name="bigram_prediction">Moladh an ath-fhacal</string>
     <string name="bigram_prediction_summary">Cleachd am facal roimhe a chùm molaidhean</string>
@@ -104,6 +105,10 @@
     <string name="account_selected">A’ cleachdadh <xliff:g id="EMAIL_ADDRESS" example="someone@example.com">%1$s</xliff:g> an-dràsta</string>
     <string name="account_select_ok">Ceart ma-thà</string>
     <string name="account_select_cancel">Sguir dheth</string>
+=======
+    <string name="hint_add_to_dictionary">Thoir gnogag air a-rithist gus a shàbhaladh</string>
+    <string name="hint_add_to_dictionary_without_word">Thoir gnogag an-seo airson a shàbhaladh</string>
+>>>>>>> 459a560e9 (Automatic translation import)
     <string name="account_select_sign_out">Clàraich a-mach</string>
     <string name="account_select_title">Tagh an cunntas ri chleachdadh</string>
     <string name="subtype_en_GB">Beurla (RA)</string>
